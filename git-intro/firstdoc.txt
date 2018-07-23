@@ -1,2 +1,2 @@
-ceva scris
 adaugare
+am modificat chestii locale
