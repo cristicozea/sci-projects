@@ -2,4 +2,4 @@ adaugare
 am modificat chestii locale
 ceva scris
 am facut modificari noi remote
-
+am adaugat o linie
