@@ -1,0 +1,8 @@
+
+lsquid:S1192)"IDefine a constant instead of duplicating this literal "customer" 3 times.(á‚á¸úÿÿÿÿ8ååÂÖƒ-
+fsquid:S4488 "HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ö­ÌÄ8ååÂÖƒ-
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(÷È„¯8ååÂÖƒ-
+msquid:S4488?"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ç¼Öùÿÿÿÿ8ååÂÖƒ-
+_squid:S1854)"<Remove this useless assignment to local variable "customer".(á‚á¸úÿÿÿÿ8ååÂÖƒ-
+Psquid:S1481)"-Remove this unused "customer" local variable.(á‚á¸úÿÿÿÿ8ååÂÖƒ-
